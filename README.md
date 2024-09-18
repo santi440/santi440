@@ -22,11 +22,11 @@
 <h2 style="font-family: Arial, sans-serif; color: #333;">Habilidades</h2>
 <p>
   <strong>Python</strong><br>
-  <progress value="80" max="100">80%</progress><br>
+  <progress value="80" max="100"></progress><br>
   <strong>Linux</strong><br>
-  <progress value="70" max="100">70%</progress><br>
+  <progress value="70" max="100"></progress><br>
   <strong>Java</strong><br>
-  <progress value="70" max="100">70%</progress><br>
+  <progress value="70" max="100"></progress><br>
 </p>
 
 <!-- Footer minimalista -->
